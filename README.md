@@ -12,9 +12,13 @@ Feel free to add suggestions!
  * [Community](#community)
   
 ## Apps
+* [ArConnect](https://arconnect.io/) - Wallet management for Arweave.
+* [Community.xyz](https://community.xyz/) - Platform to manage decentralised community on Arweave.
+* [Verto](https://verto.exchange/) - Decentralised trading protocol on Arweave.
+* [ArVerify](https://arverify.org/) - Arweave verification system.
+* [ArDrive](https://ardrive.io/) - Private, permanent, and secure decentralised storage system.
 * [Arweave Apps](http://arweaveapps.com/) - A registry apps uploaded to the permaweb.
 * [ArQL Explorer](https://24hdil5gprmlvukntcaulstyvdb5umxcl5xfkjih3jvkf6jb4t2a.arweave.net/1w40L6Z8WLrRTZiBRcp4qMPaMuJfblUlB9pqovkh5PQ) - Arweave query explorer.
-* [ArConnect](https://arconnect.io/) - Wallet management for Arweave.
 * [Weavemail](https://weavemail.app/) - Private, decentralised mail system on Arweave.
 * [ArBoard](https://u342fo4eteuqdfqbrdvs23ge7zrdxuxnp274zsgnb4lgweqykemq.arweave.net/pvmiu4SZKQGWAYjrLWzE_mI70u1-v8zIzQ8WaxIYURk) - Decentralised forum on the permaweb.
 
