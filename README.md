@@ -1,5 +1,5 @@
 # Awesome Arweave [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome Kleros resources.
+A curated list of awesome Arweave resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
@@ -12,6 +12,7 @@ Feel free to add suggestions!
  * [Community](#community)
   
 ## Apps
+* [ArWiki](https://arwiki.wiki/) - Arweave Wiki!
 * [ArConnect](https://arconnect.io/) - Wallet management for Arweave.
 * [Community.xyz](https://community.xyz/) - Platform to manage decentralised community on Arweave.
 * [Verto](https://verto.exchange/) - Decentralised trading protocol on Arweave.
